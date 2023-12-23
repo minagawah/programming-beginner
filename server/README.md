@@ -1,0 +1,30 @@
+# programming-beginner (Server)
+
+#### dependencies
+
+- express
+- http-errors
+- nunjucks
+- tailwindcss
+- postcss
+- autoprefixer
+
+#### devDependencies
+
+- postcss-cli
+- postcss-preset-env
+- postcss-import
+- postcss-mixins
+- nodemon
+- concurrently
+- prettier
+- ~prettier-plugin-nunjucks~
+
+```
+npm install --save express http-errors nunjucks \
+  tailwindcss postcss autoprefixer;
+
+npm install --save-dev postcss-cli postcss-preset-env \
+  postcss-import postcss-mixins nodemon concurrently \
+  prettier;
+```

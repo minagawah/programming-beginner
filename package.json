@@ -1,0 +1,19 @@
+{
+  "name": "programming-beginner",
+  "version": "0.1.0",
+  "private": false,
+  "description": "A tutorial on implementing server and client apps using NodeJS.",
+  "main": "server/public/index.html",
+  "repository": "https://github.com/minagawah/programming-beginner.git",
+  "keywords": [
+    "programming",
+    "beginner",
+    "Express",
+    "React"
+  ],
+  "author": "minagawah <minag@tokyo800.jp>",
+  "license": "(Unlicense OR MIT)",
+  "bugs": {
+    "url": "https://github.com/minagawah/programming-beginner/issues"
+  }
+}
