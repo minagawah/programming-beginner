@@ -3,3 +3,4 @@
 /public/css
 *.log
 *.lock
+package-lock.json

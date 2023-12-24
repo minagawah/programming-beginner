@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500&display=swap');
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 html,
 body {
   height: 100%;
@@ -44,11 +40,13 @@ body {
 }
 
 h1 {
-  @apply font-bold text-3xl;
+  font-weight: bold;
+  font-size: 1.875rem;
 }
 
 h2 {
-  @apply font-bold text-2xl;
+  font-weight: bold;
+  font-size: 1.5rem
 }
 
 a,
